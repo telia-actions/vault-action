@@ -1,0 +1,3 @@
+9e8f22534f4526ce533f2efc6c9c7b9501215fd4:integrationTests/basic/rsa_keys.js:private-key:2
+e59c94afbea76ca5dad1536d985f41a4cfaa981d:integrationTests/e2e-tls/configs/client.key:private-key:1
+e59c94afbea76ca5dad1536d985f41a4cfaa981d:integrationTests/e2e-tls/configs/server.key:private-key:1
